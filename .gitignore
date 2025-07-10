@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+__init__.py
+*.py[cod]
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+airbnb/
+airbbnb/
+
+
+# Django
+*.sqlite3
+db.sqlite3
+migrations/
